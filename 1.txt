@@ -1,1 +1,2 @@
-hi
+install git
+install python
